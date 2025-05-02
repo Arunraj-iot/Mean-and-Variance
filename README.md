@@ -49,11 +49,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
-NAME: GOPIKA A    
-REG NO: 212224100017   
-DEPT: CSE(CYBER SECURITY)   
-DATE: 29-04-2025
-
 ```
 import numpy as np
 L=[int(i) for i in input().split()]
@@ -82,7 +77,9 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 # Output : 
 
-![image](https://github.com/user-attachments/assets/f6e2e551-a431-4a4d-a996-5c9b4c3e77fe)
+
+![image](https://github.com/user-attachments/assets/e02ef607-4f1f-4366-bf23-27b087231eae)
+
 
 
 # Results :
